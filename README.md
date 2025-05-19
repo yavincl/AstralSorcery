@@ -1,4 +1,4 @@
-[![Build Status](https://jenkins.hellfiredev.net/job/AstralSorcery/job/1.16-indev/badge/icon)](https://jenkins.hellfiredev.net/job/AstralSorcery/job/1.16-indev/)
+[![Build Status](https://jenkins.hellfiredev.net/job/AstralSorcery/job/1.21-indev/badge/icon)](https://jenkins.hellfiredev.net/job/AstralSorcery/job/1.21-indev/)
 
 # Astral Sorcery
 
